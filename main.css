@@ -1,0 +1,35 @@
+.inner {
+    background: #fafad6;
+}
+
+.yellow {
+        color: #050505;
+    background: #ffc400;
+      text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 700;
+     line-height:50px;
+}
+
+.red {
+    color: #ffffff;
+    background: #fa1515;
+      text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 700;
+     line-height:50px;
+}
+
+
+
+
+
+
